@@ -1,2 +1,2 @@
-<h1>Apresentação das Soluções Propostas pela Target Sistemas.</h1>
+<h2>Apresentação das Soluções Propostas pela Target Sistemas.</h2>
 
